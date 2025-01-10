@@ -1,0 +1,54 @@
+# 编译生成的文件
+*.o
+*.out
+*.exe
+/binary_tree_inorder_traversal/binary_tree_inorder_traversal
+
+# 调试文件
+*.dSYM/
+*.su
+*.idb
+*.pdb
+
+# IDE 相关文件
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# 依赖文件
+*.d
+
+# 预编译头文件
+*.gch
+*.pch
+
+# 动态链接库
+*.so
+*.dylib
+*.dll
+
+# 静态链接库
+*.lai
+*.la
+*.a
+*.lib
+
+# 可执行文件
+*.exe
+*.out
+*.app
+
+# 临时文件
+*.log
+*.tmp
+*~
+
+# 操作系统生成的文件
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
