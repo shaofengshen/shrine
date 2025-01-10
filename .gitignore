@@ -3,7 +3,7 @@
 *.out
 *.exe
 /binary_tree_inorder_traversal/binary_tree_inorder_traversal
-
+/maximum_depth_of_binary_tree/maximum_depth_of_binary_tree
 # 调试文件
 *.dSYM/
 *.su
